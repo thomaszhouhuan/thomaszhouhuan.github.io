@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-27T08:22:02.597Z</updated>
+  <updated>2021-07-30T12:08:00.029Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,23 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/07/27/hello-world/"/>
-    <id>http://example.com/2021/07/27/hello-world/</id>
-    <published>2021-07-27T08:22:02.597Z</published>
-    <updated>2021-07-27T08:22:02.597Z</updated>
+    <title>第一次相遇</title>
+    <link href="http://example.com/2021/07/30/myfirstarticle/"/>
+    <id>http://example.com/2021/07/30/myfirstarticle/</id>
+    <published>2021-07-30T11:14:46.000Z</published>
+    <updated>2021-07-30T12:08:00.029Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;夏日，我在前往固始的火车上辗转反侧，完全睡不着啊，终于要见到心心念念的小梵了，他是否会喜欢我的样貌呢，我们会合得来吗，我们之间会发生哪些故事呢？好久好久没有那么激动了。。。&lt;/p&gt;
+&lt;p&gt;见到小梵的那一刻，我完全懵了，这是多么令人着迷的美貌，我曾经幻想过世间可以拥有的最美丽</summary>
         
       
     
     
     
+    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="面基" scheme="http://example.com/tags/%E9%9D%A2%E5%9F%BA/"/>
+    
+    <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
     
   </entry>
   

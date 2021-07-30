@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2021/07/27/hello-world/"/>
-      <url>/2021/07/27/hello-world/</url>
+      <title>第一次相遇</title>
+      <link href="/2021/07/30/myfirstarticle/"/>
+      <url>/2021/07/30/myfirstarticle/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>夏日，我在前往固始的火车上辗转反侧，完全睡不着啊，终于要见到心心念念的小梵了，他是否会喜欢我的样貌呢，我们会合得来吗，我们之间会发生哪些故事呢？好久好久没有那么激动了。。。</p><p>见到小梵的那一刻，我完全懵了，这是多么令人着迷的美貌，我曾经幻想过世间可以拥有的最美丽的人的样貌，<br>但是却远远不及此刻身前的这位翩翩少年，已经瞠目结舌了，不知道该说什么了，来之前我还想着或许可以有浪漫的告白之类的，现在却无法开口了，如同凡人颤颤巍巍得看着神明一般，我渺小得令人绝望。</p><p>一天结束了，我瘫倒在床上，很开心，有小梵陪着，一切都如梦幻一般，但是，大概，没有机会了吧，要是我五年之后再遇到小梵就好了，那时的我一定更强，更有价值，现在的我，算得了什么？当我以为世上已没有值得我爱的人时遇到了小梵，又因小梵的优秀而望而却步，此刻我既激动又胆怯，好久好久没有如此爱一个人，好久好久没有如此斗志昂然，多么希望自己更加优秀，多么希望能成为带给小梵欢笑的人。。。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面基 </tag>
+            
+            <tag> 心情 </tag>
+            
+        </tags>
       
     </entry>
     
